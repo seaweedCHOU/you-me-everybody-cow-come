@@ -1,0 +1,4 @@
+interface:
+  display_name: "You Me Everybody Cow Come"
+  short_description: "把人物、群像与风景照片变成土味粗糙的拟人牛三维场景"
+  default_prompt: "Use $you-me-everybody-cow-come 把我上传的照片变成土味粗糙的拟人牛三维场景。"
